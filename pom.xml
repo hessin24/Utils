@@ -7,7 +7,6 @@
     <artifactId>utils</artifactId>
     <version>1.0.1</version>
     <packaging>jar</packaging>
-
     <developers>
         <developer>
             <name>Kheri Nassir</name>
